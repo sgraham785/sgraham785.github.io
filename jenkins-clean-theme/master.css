@@ -42,6 +42,15 @@ body {
     text-decoration: none !important;
 }
 
+#breadcrumbs li:hover, a.breadcrumbBarAnchor.mouseIsOverMenuSelector {
+  background-color: none !important;
+}
+
+.tabBar .tab {
+  float: left;
+  margin-left: 0px !important;
+}
+
 #right-top-nav  a {
     color: #fff !important;
     margin-top: 1px;
